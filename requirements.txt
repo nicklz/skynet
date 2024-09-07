@@ -1,0 +1,6 @@
+selenium
+fake_useragent
+pyperclip
+pyautoit
+pyvirtualdisplay
+beautifulsoup4
